@@ -1,0 +1,206 @@
+/*@media screen and (min-width: 480px) {
+  .maglogos {
+    max-width: 50%;
+  }
+}*/
+
+h1 {
+	color: #595958;
+	font-size: 80px;
+	padding: 45px;
+}
+
+h3 {
+	padding: 30px;
+}
+.tagline {
+	color: #595958;
+	font-size: 40px;
+	padding-left: 45px;	
+}
+
+.topsign {
+	display: right;
+	background-color: #fcfa90;
+	width: 250px;
+}
+
+.homeimage {
+	max-width:100%;
+}
+
+.maglogos {
+	max-width:50%;
+}
+
+.socialproof {
+	color: #8a8d91;
+	font-family: ‘Raleway’, sans-serif;
+	font-size: 20;
+}
+
+.card {
+	border: none;	
+}
+.card_review {
+	border: none;
+	padding: 70px;
+	margin-left: 30px;
+	min-width: 100%;
+}
+
+.app_store {
+	max-width: 10rem;
+	padding: 10px;
+}
+
+
+.navbar-custom {
+	background-color: #fcc490;
+	border: none;
+}
+
+.firstvalprop {
+	padding-top: 30px;
+	max-width: 90%;
+}
+
+.thirdvalprop {
+	padding-bottom: 30px;
+
+}
+
+
+.teampic {
+	max-width: 70%;
+}
+
+.five-stars {
+	max-width: 70%;
+	vertical-align: bottom;
+}
+
+.button_color {
+	background-color: grey;
+}
+
+.sign_up_button {
+	background-color: #fcfa90;
+	width: 150px;
+	border: 2px;
+	border-color: #8a8d91;
+	border-radius: 4px;
+	padding-right: 5px;
+	margin: 0 auto;
+	color: #595958;
+	font-size: 19px;
+}
+
+.align-middle {
+  vertical-align: middle;
+}
+
+.sign_up_color {
+	background-color: #595958;
+}
+
+.download_special {
+
+		}
+
+.icon {
+ 	width:  50px;
+ 	height: auto;
+	line-height: 4;
+}
+
+.bottomfont {
+	color: #ffffff;
+	 }
+
+.map_special {
+	max-width: 100%;
+}
+
+.h1_diary {
+	color: #595958;
+	font-size: 30px;
+	padding: 45px;
+	}
+
+.quote {
+	font-family: 'Satisfy', cursive;
+	font-size: 10px;
+}
+
+.form_box {
+	padding: 20px;
+	margin: 20px;
+	height: 200px;
+    position: relative;
+    border: 2px solid #cdcdcd;
+    border-color: rgba(0, 0, 0, .14);
+    font-size: 14px;
+    border-radius: 25px;
+    width: 100%;
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+}
+
+.diary_heading {
+	color: #fcc490;
+	font-size: 22px;
+	}
+
+.diary_entry_heading {
+	color: #595958;
+	font-size: 19px;
+	}
+
+.card_review {
+	padding: 30px;
+   	background-color: #fffff;
+}
+
+.scroll{
+	overflow: scroll;
+}
+
+/* Style the header: fixed position (always stay at the top) */
+.header {
+  position: fixed;
+  top: 55px;
+  z-index: 1;
+  width: 100%;
+  background-color: #fae3d9;
+}
+/* The progress container (grey background) */
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: #ccc;
+}
+/* The progress bar (scroll indicator) */
+.progress-bar {
+  height: 8px;
+  background: #ffb6b9;
+  width: 0%;
+}
+
+.h2_padding {
+	padding-left: 20px;
+	float: center;
+}
+
+.mini_image {
+	max-width: 40%;
+}
+
+.container_special {
+	margin-top: 25px;
+
+}
+
